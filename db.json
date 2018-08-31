@@ -1,20 +1,22 @@
-[
-  {
-    "id": 18841,
-    "category" : [ "Clothing" ],
-    "images" : [ "https://cdn.pixabay.com/photo/2016/03/20/13/48/zip-1268656_1280.jpg" ],
-    "name" : "18841",
-    "overall_rating" : 4.16,
-    "product_name" : "Roll-Up Denim Bermuda Shorts (Wise) (Regular & Petite)",
-    "short_description" : "An essential for kicked-back days, Bermuda-length denim shorts with rolled hems are detailed with whiskering for a comfy worn-in look.\\n15 1/2\" regular inseam (size 8); 13\" petite inseam (size 8P).\\nZip fly with button closure.\\nDark dye may transfer to lighter materials.\\n99% cotton, 1% spandex.\\nMachine wash cold, tumble dry low or lay flat to dry.\\nBy KUT from The Kloth; imported.\\nPoint of View."
-  },
-  {
-    "id": 31001,
-    "category" : [ "Baby" ],
-    "images" : [ "https://cdn.pixabay.com/photo/2017/09/11/16/11/ducks-2739503__480.jpg" ],
-    "name" : "31001",
-    "overall_rating" : 4.7,
-    "product_name" : "Munchkin 'White Hot' Duck Bath Toy",
-    "short_description" : "Test the waters with America's #1 Safety Duck. No need to worry that your baby's bath water is too hot to handle. This adorable rubber ducky has our White Hot safety disc at the bottom that tells you when the water is too hot, then let's you know that it's safe to put your baby in."
-  }
-]
+{
+
+  "products": [{
+      "id": 18841,
+      "category": ["Clothing"],
+      "images": ["https://cdn.pixabay.com/photo/2016/03/20/13/48/zip-1268656_1280.jpg"],
+      "name": "18841",
+      "overall_rating": 4.16,
+      "product_name": "Roll-Up Denim Bermuda Shorts (Wise) (Regular & Petite)",
+      "short_description": "An essential for kicked-back days, Bermuda-length denim shorts with rolled hems are detailed with whiskering for a comfy worn-in look.\\n15 1/2\" regular inseam (size 8); 13\" petite inseam (size 8P).\\nZip fly with button closure.\\nDark dye may transfer to lighter materials.\\n99% cotton, 1% spandex.\\nMachine wash cold, tumble dry low or lay flat to dry.\\nBy KUT from The Kloth; imported.\\nPoint of View."
+    },
+    {
+      "id": 31001,
+      "category": ["Baby"],
+      "images": ["https://cdn.pixabay.com/photo/2017/09/11/16/11/ducks-2739503__480.jpg"],
+      "name": "31001",
+      "overall_rating": 4.7,
+      "product_name": "Munchkin 'White Hot' Duck Bath Toy",
+      "short_description": "Test the waters with America's #1 Safety Duck. No need to worry that your baby's bath water is too hot to handle. This adorable rubber ducky has our White Hot safety disc at the bottom that tells you when the water is too hot, then let's you know that it's safe to put your baby in."
+    }
+  ]
+}
